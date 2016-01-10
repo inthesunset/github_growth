@@ -1,3 +1,4 @@
+date;create_num;create_size;fork_num;fork_size;active_num;active_size;activefork_num;activefork_size
 2007-10;2;8279;1;325;1;7954;0;0
 2008-01;113;291948;63;28385;60;269536;11;6069
 2008-02;380;1517945;59;270095;153;1058870;5;123272
